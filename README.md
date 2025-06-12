@@ -4,3 +4,7 @@ este programa es capas de :
 ✓ Minutos a segundos
 ✓ Días a horas
 ✓ Semanas a días
+
+sera en consola usando java 
+simplente se abre el proyecto en intelliJ 
+y se ejecuta con el boton run
